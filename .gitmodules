@@ -1,0 +1,21 @@
+[submodule "client/extern/asio"]
+	path = client/extern/asio
+	url = https://github.com/boostorg/asio.git
+[submodule "client/extern/beast"]
+	path = client/extern/beast
+	url = https://github.com/boostorg/beast.git
+[submodule "client/extern/system"]
+	path = client/extern/system
+	url = https://github.com/boostorg/system.git
+[submodule "client/extern/assert"]
+	path = client/extern/assert
+	url = https://github.com/boostorg/assert.git
+[submodule "client/extern/config"]
+	path = client/extern/config
+	url = https://github.com/boostorg/config.git
+[submodule "client/extern/core"]
+	path = client/extern/core
+	url = https://github.com/boostorg/core.git
+[submodule "client/extern/utility"]
+	path = client/extern/utility
+	url = https://github.com/boostorg/utility.git
